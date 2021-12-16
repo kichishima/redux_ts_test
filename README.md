@@ -1,3 +1,15 @@
+redux公式のコピペでやってみた。
+
+## memo
+以下の3種のnpm installが必要:  
+- "@reduxjs/toolkit": "^1.7.0",
+- "@types/react-redux": "^7.1.20",
+- "react-redux": "^7.2.6"
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
